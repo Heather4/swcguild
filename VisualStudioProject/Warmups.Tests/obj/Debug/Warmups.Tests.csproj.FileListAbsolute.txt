@@ -1,0 +1,9 @@
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\bin\Debug\Warmups.Tests.dll
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\bin\Debug\Warmups.Tests.pdb
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\bin\Debug\nunit.framework.dll
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\bin\Debug\Warmups.BLL.dll
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\bin\Debug\Warmups.BLL.pdb
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\bin\Debug\nunit.framework.xml
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\obj\Debug\Warmups.Tests.csprojResolveAssemblyReference.cache
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\obj\Debug\Warmups.Tests.dll
+C:\_repos\swcguild\VisualStudioProject\Warmups.Tests\obj\Debug\Warmups.Tests.pdb

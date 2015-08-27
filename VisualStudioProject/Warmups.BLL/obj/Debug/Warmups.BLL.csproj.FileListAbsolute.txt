@@ -1,0 +1,5 @@
+C:\_repos\swcguild\VisualStudioProject\Warmups.BLL\bin\Debug\Warmups.BLL.dll
+C:\_repos\swcguild\VisualStudioProject\Warmups.BLL\bin\Debug\Warmups.BLL.pdb
+C:\_repos\swcguild\VisualStudioProject\Warmups.BLL\obj\Debug\Warmups.BLL.csprojResolveAssemblyReference.cache
+C:\_repos\swcguild\VisualStudioProject\Warmups.BLL\obj\Debug\Warmups.BLL.dll
+C:\_repos\swcguild\VisualStudioProject\Warmups.BLL\obj\Debug\Warmups.BLL.pdb
